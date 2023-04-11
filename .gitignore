@@ -1,0 +1,7 @@
+# Ignore all .csv files
+*.csv
+*.db
+*.xml
+
+# Ignore the directory "data"
+Data/
